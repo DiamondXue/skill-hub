@@ -11,3 +11,4 @@
 | `tdesign-miniprogram` | TDesign 微信小程序组件库 |
 | `wechat-miniprogram` | 微信小程序开发框架 |
 | `patient-zou-fengqiao` | 患者邹凤桥精神科医学建议与康复指导 |
+| `gz-zhongkao-zhiyuan` | 广州中考志愿填报专家（2026年最新政策） |
